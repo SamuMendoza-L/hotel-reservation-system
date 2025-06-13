@@ -1,0 +1,39 @@
+Roles básicos en un hotel relacionados con reservas:
+
+Recepcionista
+
+    Registra clientes.
+
+    Realiza y cancela reservas.
+
+    Verifica disponibilidad de habitaciones.
+
+    Cobra pagos presenciales.
+
+Gerente de Reservas
+
+    Supervisa todas las reservas.
+
+    Gestiona cambios y cancelaciones especiales.
+
+    Revisa reportes de pagos y ocupación.
+
+Administrador
+
+    Tiene acceso completo al sistema.
+
+    Puede modificar tarifas, estados de habitaciones y ver historial completo.
+
+    Gestiona usuarios y roles.
+
+Empleado de Mantenimiento / Aseo
+
+    Solo consulta disponibilidad y estado de habitaciones.
+
+    No puede hacer reservas ni gestionar pagos.
+
+Contador / Encargado de Finanzas
+
+    Revisa historial de pagos.
+
+    Exporta datos de facturación y estados de cuenta.
